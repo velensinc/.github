@@ -9,8 +9,6 @@ Ask your Marketing Cloud org a question and get an answer from live data. Writes
 - **[VeLens Cloud](https://velens.cloud/surfaces/studio)**. The web app. It also opens inside Marketing Cloud from the app menu.
 - **[VeLens for Marketing Cloud](https://chromewebstore.google.com/detail/gjgnmkjojoimdjoielhfaacplcndligk)**. The Chrome extension. Find data extensions, journeys and automations, and see how they connect on one map.
 
-The code of the live Chrome extension is public in [velens-chrome-extension](https://github.com/velensinc/velens-chrome-extension).
-
 Install VeLens Cloud from [AppExchange](https://velens.cloud/go/appexchange).
 
 ## Your data
